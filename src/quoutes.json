@@ -1,0 +1,23 @@
+[
+    {
+      "author": "Albert Einstein",
+      "quote": "A imaginação é mais importante que o conhecimento.",
+      "image": "assets/einstein.jpg"
+    },
+    {
+      "author": "Steve Jobs",
+      "quote": "Seu tempo é limitado, então não o desperdice vivendo a vida de outra pessoa.",
+      "image": "assets/jobs.jpg"
+    },
+    {
+        "author": "Ayrton Senna ",
+        "quote": "Vencer sem correr riscos, é triunfar sem glórias!",
+        "image": "assets/Senna.jpg"
+      },
+      {
+        "author": "Oprah Winfrey",
+        "quote": "O futuro da vida como a conhecemos está sendo determinado por tudo o que estamos fazendo - e não fazendo agora.",
+        "image": "assets/Oprah.jpg"
+      }
+  ]
+  
